@@ -7,9 +7,10 @@ const translations = {
     'nav.prototype': 'Prototyp',
     'nav.contact': 'Kontakt',
     'common.cv': 'CV',
-    'hero.eyebrow': 'Bewerbungsportfolio · TrustHLT / RUB',
+
+    'hero.eyebrow': 'Portfolio · Web, AI & Prototyping',
     'hero.title': 'Yazan Zehni',
-    'hero.subtitle': 'Studentische Hilfskraft – Website Creation & Prototype Design',
+    'hero.subtitle': 'M.Sc.-Student Informatik · Web, Prototyping & datengetriebene Systeme',
     'hero.copy': 'M.Sc.-Student der Informatik an der Ruhr-Universität Bochum mit fundierten methodischen und analytischen Fähigkeiten, Interesse an Softwareentwicklung, interaktiven Web-Erfahrungen und datengetriebenen Systemen.',
     'hero.pill1': 'M.Sc. Computer Science',
     'hero.pill2': 'Deutsch · Englisch · Arabisch',
@@ -25,6 +26,7 @@ const translations = {
     'hero.card3Value': 'abgeschlossen · 181 ECTS · Schnitt 2,3',
     'hero.card4Label': 'Besonders relevant',
     'hero.card4Value': 'Web Engineering, Requirements Engineering, NLP, Responsible AI',
+
     'fit.kicker': 'Warum dieses Portfolio zur Stelle passt',
     'fit.title': 'Realistisch, gezielt und ehrlich auf die Ausschreibung zugeschnitten',
     'fit.intro': 'Diese Seite hebt nur das hervor, was durch CV und Transcript belegt ist. Wo keine professionelle Erfahrung dokumentiert ist, wird nichts hinzugefügt. Stattdessen zeigt das Portfolio unten einen kleinen anwendungsbezogenen Mini-Prototypen in HTML/CSS/JavaScript.',
@@ -34,6 +36,7 @@ const translations = {
     'fit.card2Body': 'Erfahrung als studentische Hilfskraft mit einem Tool zur grafischen Erstellung digitaler Schaltkreise und einem Projekt zur KI-gestützten Erweiterung von Architektur-Skizzen.',
     'fit.card3Title': 'Human Language Technologies',
     'fit.card3Body': 'Passende AI/NLP-Bausteine durch Engineering for Large Language Models, Responsible AI, Natural Language Processing with Deep Learning sowie Forschungsprojekte zu Fairness und LLMs.',
+
     'experience.kicker': 'Erfahrung',
     'experience.title': 'Dokumentierte praktische Arbeit',
     'experience.role1Date': '04/2024 – 07/2025',
@@ -41,6 +44,7 @@ const translations = {
     'experience.role1Title': 'Studentische Hilfskraft',
     'experience.role1Bullet1': 'Entwicklung eines Tools zur grafischen Erstellung und Umwandlung digitaler Schaltkreise in LaTeX-Format',
     'experience.role1Bullet2': 'Erstellung von Musterlösungen für Hausaufgaben',
+
     'projects.kicker': 'Ausgewählte Projekte',
     'projects.title': 'Relevante Arbeiten aus CV und Transcript',
     'projects.p1Date': '04/2025 – 09/2025',
@@ -60,10 +64,11 @@ const translations = {
     'projects.p4Bullet2': 'Generierung von PlantUML-Diagrammen und Architektur-Empfehlungen',
     'projects.p5Date': 'WiSe 2025/26 · Projektmodul',
     'projects.p5Title': 'Measuring Malicious Fake Accounts on Reddit',
-    'projects.p5Bullet1': 'Im Transcript als abgeschlossenes Projektmodul mit Note 1,7 ausgewiesen',
-    'projects.p5Bullet2': 'Hier bewusst ohne zusätzliche Details dargestellt, da im CV keine weiteren Projektspezifika genannt sind',
+    'projects.p5Bullet1': 'Großskalige Analyse von Reddit-Daten (2005–2025) mit über 12,8 Millionen Repost-Versuchen viral gewordener Inhalte',
+    'projects.p5Bullet2': 'Untersuchung von Viralitätsmustern, Repost-Erfolgsraten und zeitlichen Strategien beim Recycling viraler Inhalte',
+
     'education.kicker': 'Studium & belegbare Stärken',
-    'education.title': 'Akademische Basis für Website-Erstellung, Prototyping und HLT-nahe Themen',
+    'education.title': 'Akademische Basis für Website-Erstellung, Prototyping',
     'education.stat1Label': 'M.Sc. Informatik',
     'education.stat1Value': '37 / 120 ECTS',
     'education.stat1Body': 'laufend · Gesamtnote 1,7',
@@ -94,9 +99,10 @@ const translations = {
     'education.row7Title': 'Internship at ASTA Campus App',
     'education.row8Area': 'Networks / Systems',
     'education.row8Title': 'Computer Networks',
-    'prototype.kicker': 'Mini-Prototyp für diese Bewerbung',
-    'prototype.title': 'Kleine interaktive Demo statt unbelegter Behauptungen',
-    'prototype.intro': 'Die Ausschreibung nennt spielerische Web-Elemente, Hinweise und Fortschritt. Deshalb enthält diese Seite einen kleinen, bewusst einfachen Prototypen in reinem HTML/CSS/JavaScript. Er ist keine behauptete frühere Berufserfahrung, sondern ein konkreter Demonstrator für diese Bewerbung.',
+
+    'prototype.kicker': 'Interaktive Demo',
+    'prototype.title': 'Kleine interaktive Demo',
+    'prototype.intro': 'Diese Seite enthält einen bewusst einfachen Prototypen in reinem HTML/CSS/JavaScript. Er zeigt einen möglichen Aufbau für klare Interaktion, Hinweise und sichtbaren Fortschritt in einer kleinen Web-Anwendung.',
     'prototype.note1': 'Hint-System',
     'prototype.note2': 'Schrittweiser Flow',
     'prototype.note3': 'Progress-Anzeige',
@@ -105,13 +111,16 @@ const translations = {
     'prototype.hintLabel': 'Hinweis:',
     'prototype.hintButton': 'Hinweis anzeigen',
     'prototype.nextButton': 'Nächster Schritt',
+
     'contact.kicker': 'Kontakt',
     'contact.title': 'Unterlagen und Kontakt',
-    'contact.copy': 'Für eine Bewerbung oder Rückfrage können CV und Transcript direkt aus diesem Portfolio geöffnet werden.',
+    'contact.copy': 'CV und Transcript können direkt aus diesem Portfolio geöffnet werden.',
     'contact.cta1': 'CV öffnen',
     'contact.cta2': 'Transcript öffnen',
+
     'footer.copy': 'Erstellt als statisches Portfolio für GitHub Pages · ohne Build-Prozess · leicht anpassbar'
   },
+
   en: {
     'nav.fit': 'Fit',
     'nav.experience': 'Experience',
@@ -120,9 +129,10 @@ const translations = {
     'nav.prototype': 'Prototype',
     'nav.contact': 'Contact',
     'common.cv': 'CV',
-    'hero.eyebrow': 'Application Portfolio · TrustHLT / RUB',
+
+    'hero.eyebrow': 'Portfolio · Web, AI & Prototyping',
     'hero.title': 'Yazan Zehni',
-    'hero.subtitle': 'Student Assistant – Website Creation & Prototype Design',
+    'hero.subtitle': 'M.Sc. Computer Science Student · Web, Prototyping & Data-Driven Systems',
     'hero.copy': 'M.Sc. Computer Science student at Ruhr University Bochum with strong analytical and methodical skills and an interest in software development, interactive web experiences, and data-driven systems.',
     'hero.pill1': 'M.Sc. Computer Science',
     'hero.pill2': 'German · English · Arabic',
@@ -138,6 +148,7 @@ const translations = {
     'hero.card3Value': 'completed · 181 ECTS · average 2.3',
     'hero.card4Label': 'Especially relevant',
     'hero.card4Value': 'Web Engineering, Requirements Engineering, NLP, Responsible AI',
+
     'fit.kicker': 'Why this portfolio fits the role',
     'fit.title': 'Targeted, realistic, and intentionally honest',
     'fit.intro': 'This page only emphasizes information documented in the CV and transcript. Where there is no documented professional experience, nothing is added. Instead, the portfolio includes a small application-specific mini prototype in HTML/CSS/JavaScript below.',
@@ -147,6 +158,7 @@ const translations = {
     'fit.card2Body': 'Hands-on experience as a student assistant through a tool for graphical digital circuit creation and a project on AI-assisted software architecture sketches.',
     'fit.card3Title': 'Human Language Technologies',
     'fit.card3Body': 'Relevant AI/NLP coursework through Engineering for Large Language Models, Responsible AI, Natural Language Processing with Deep Learning, and research projects on fairness and LLMs.',
+
     'experience.kicker': 'Experience',
     'experience.title': 'Documented practical work',
     'experience.role1Date': '04/2024 – 07/2025',
@@ -154,6 +166,7 @@ const translations = {
     'experience.role1Title': 'Student Assistant',
     'experience.role1Bullet1': 'Developed a tool for graphical creation and conversion of digital circuits into LaTeX format',
     'experience.role1Bullet2': 'Prepared sample solutions for assignments',
+
     'projects.kicker': 'Selected projects',
     'projects.title': 'Relevant work taken from the CV and transcript',
     'projects.p1Date': '04/2025 – 09/2025',
@@ -173,10 +186,11 @@ const translations = {
     'projects.p4Bullet2': 'Generated PlantUML diagrams and architecture recommendations',
     'projects.p5Date': 'Winter term 2025/26 · project module',
     'projects.p5Title': 'Measuring Malicious Fake Accounts on Reddit',
-    'projects.p5Bullet1': 'Listed in the transcript as a completed project module with grade 1.7',
-    'projects.p5Bullet2': 'Intentionally shown without extra claims because the CV does not include more project-specific details',
+    'projects.p5Bullet1': 'Large-scale analysis of Reddit data (2005–2025) covering over 12.8 million repost attempts of previously viral content',
+    'projects.p5Bullet2': 'Investigation of virality patterns, repost success rates, and timing strategies in recycled viral content',
+
     'education.kicker': 'Education & documented strengths',
-    'education.title': 'Academic foundation for website creation, prototyping, and HLT-related work',
+    'education.title': 'Academic foundation for website creation, prototyping',
     'education.stat1Label': 'M.Sc. Computer Science',
     'education.stat1Value': '37 / 120 ECTS',
     'education.stat1Body': 'ongoing · average 1.7',
@@ -207,9 +221,10 @@ const translations = {
     'education.row7Title': 'Internship at ASTA Campus App',
     'education.row8Area': 'Networks / Systems',
     'education.row8Title': 'Computer Networks',
-    'prototype.kicker': 'Mini prototype for this application',
-    'prototype.title': 'A small interactive demo instead of unsupported claims',
-    'prototype.intro': 'The job ad mentions playful web elements, hints, and progress. That is why this portfolio includes a small, deliberately simple prototype built in plain HTML/CSS/JavaScript. It is not presented as past job experience, but as a concrete demonstrator for this application.',
+
+    'prototype.kicker': 'Interactive demo',
+    'prototype.title': 'Small interactive demo',
+    'prototype.intro': 'This page includes a deliberately simple prototype built in plain HTML/CSS/JavaScript. It demonstrates a possible structure for clear interaction, hints, and visible progress in a small web application.',
     'prototype.note1': 'Hint system',
     'prototype.note2': 'Step-by-step flow',
     'prototype.note3': 'Progress indicator',
@@ -218,11 +233,13 @@ const translations = {
     'prototype.hintLabel': 'Hint:',
     'prototype.hintButton': 'Show hint',
     'prototype.nextButton': 'Next step',
+
     'contact.kicker': 'Contact',
     'contact.title': 'Documents and contact',
-    'contact.copy': 'The CV and transcript can be opened directly from this portfolio for application or review.',
+    'contact.copy': 'The CV and transcript can be opened directly from this portfolio.',
     'contact.cta1': 'Open CV',
     'contact.cta2': 'Open transcript',
+
     'footer.copy': 'Built as a static portfolio for GitHub Pages · no build step · easy to customize'
   }
 };
@@ -231,34 +248,34 @@ const demoSteps = {
   de: [
     {
       title: 'Schritt 1 · Einstieg',
-      text: 'Ein spielerischer Bewerbungs-Prototyp kann mit einer klaren Aufgabe, kurzer Story und sichtbarem Fortschritt starten.',
+      text: 'Eine gute Web-Demo startet mit einer klaren Aufgabe, verständlichem Kontext und sichtbarem Fortschritt.',
       hint: 'Ein guter erster Bildschirm erklärt Ziel, Kontext und die erste Aktion in wenigen Zeilen.'
     },
     {
       title: 'Schritt 2 · Hilfe & Orientierung',
-      text: 'Hints sollten optional sein, damit Nutzerinnen und Nutzer selbstständig vorankommen können, aber nicht stecken bleiben.',
+      text: 'Hinweise sollten optional bleiben, damit Nutzerinnen und Nutzer selbstständig vorankommen können, ohne festzustecken.',
       hint: 'Hinweise sind am besten knapp, stufenweise und jederzeit wieder ausblendbar.'
     },
     {
       title: 'Schritt 3 · Abschluss',
-      text: 'Am Ende bestätigt eine kleine Rückmeldung den Fortschritt und motiviert zur nächsten Aufgabe oder Seite.',
+      text: 'Am Ende bestätigt eine kleine Rückmeldung den Fortschritt und schafft einen klaren nächsten Schritt.',
       hint: 'Ein gutes Ende ist sichtbar, freundlich und ohne unnötige Reibung erreichbar.'
     }
   ],
   en: [
     {
       title: 'Step 1 · Entry',
-      text: 'A playful application prototype can begin with a clear task, short story context, and visible progress.',
+      text: 'A good web demo starts with a clear task, understandable context, and visible progress.',
       hint: 'A strong first screen explains goal, context, and the first action in just a few lines.'
     },
     {
       title: 'Step 2 · Help & guidance',
-      text: 'Hints should remain optional so users can progress independently without getting stuck.',
+      text: 'Hints should remain optional so users can move forward independently without getting stuck.',
       hint: 'Hints work best when they are short, progressive, and easy to hide again.'
     },
     {
       title: 'Step 3 · Completion',
-      text: 'At the end, a small success message confirms progress and motivates the next task or page.',
+      text: 'At the end, a small success message confirms progress and creates a clear next step.',
       hint: 'A good ending is visible, friendly, and reachable without friction.'
     }
   ]
@@ -294,12 +311,15 @@ function renderDemo() {
   textEl.textContent = current.text;
   hintEl.textContent = current.hint;
   hintBox.hidden = true;
+
   const percent = ((stepIndex + 1) / steps.length) * 100;
   progressBar.style.width = `${percent}%`;
   stepCount.textContent = `${stepIndex + 1} / ${steps.length}`;
+
   nextBtn.textContent = stepIndex === steps.length - 1
     ? (currentLang === 'de' ? 'Neu starten' : 'Restart')
     : translations[currentLang]['prototype.nextButton'];
+
   hintBtn.textContent = translations[currentLang]['prototype.hintButton'];
 }
 
