@@ -8,7 +8,7 @@ const translations = {
     'nav.contact': 'Kontakt',
     'common.cv': 'CV',
 
-    'hero.eyebrow': 'Portfolio · Web, AI & Prototyping',
+  
     'hero.title': 'Yazan Zehni',
     'hero.subtitle': 'M.Sc.-Student Informatik · Web, Prototyping & datengetriebene Systeme',
     'hero.copy': 'M.Sc.-Student der Informatik an der Ruhr-Universität Bochum mit fundierten methodischen und analytischen Fähigkeiten, Interesse an Softwareentwicklung, interaktiven Web-Erfahrungen und datengetriebenen Systemen.',
@@ -130,7 +130,7 @@ const translations = {
     'nav.contact': 'Contact',
     'common.cv': 'CV',
 
-    'hero.eyebrow': 'Portfolio · Web, AI & Prototyping',
+  
     'hero.title': 'Yazan Zehni',
     'hero.subtitle': 'M.Sc. Computer Science Student · Web, Prototyping & Data-Driven Systems',
     'hero.copy': 'M.Sc. Computer Science student at Ruhr University Bochum with strong analytical and methodical skills and an interest in software development, interactive web experiences, and data-driven systems.',
