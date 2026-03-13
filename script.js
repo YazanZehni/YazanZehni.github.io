@@ -118,7 +118,7 @@ const translations = {
     'contact.cta1': 'CV öffnen',
     'contact.cta2': 'Transcript öffnen',
 
-    'footer.copy': 'Erstellt als statisches Portfolio für GitHub Pages · ohne Build-Prozess · leicht anpassbar'
+    'footer.copy': ' '
   },
 
   en: {
@@ -240,7 +240,7 @@ const translations = {
     'contact.cta1': 'Open CV',
     'contact.cta2': 'Open transcript',
 
-    'footer.copy': 'Built as a static portfolio for GitHub Pages · no build step · easy to customize'
+    'footer.copy': ' '
   }
 };
 
