@@ -46,7 +46,7 @@ const translations = {
     'experience.role1Bullet2': 'Erstellung von Musterlösungen für Hausaufgaben',
 
     'projects.kicker': 'Ausgewählte Projekte',
-    'projects.title': 'Relevante Arbeiten aus CV und Transcript',
+    'projects.title': 'Relevante Arbeiten ',
     'projects.p1Date': '04/2025 – 09/2025',
     'projects.p1Title': 'Analyzing Routing Robustness and Load Distribution in Mixture-of-Experts Models',
     'projects.p1Bullet1': 'Untersuchung von MoE-Modellen (DeepSeekMoE 16B, Power MoE 3B) über verschiedene Domänen',
@@ -114,7 +114,7 @@ const translations = {
 
     'contact.kicker': 'Kontakt',
     'contact.title': 'Unterlagen und Kontakt',
-    'contact.copy': 'CV und Transcript können direkt aus diesem Portfolio geöffnet werden.',
+    'contact.copy': ' Mein CV kann direkt aus diesem Portfolio geöffnet werden.',
     'contact.cta1': 'CV öffnen',
     'contact.cta2': 'Transcript öffnen',
 
@@ -168,7 +168,7 @@ const translations = {
     'experience.role1Bullet2': 'Prepared sample solutions for assignments',
 
     'projects.kicker': 'Selected projects',
-    'projects.title': 'Relevant work taken from the CV and transcript',
+    'projects.title': 'Relevant work ',
     'projects.p1Date': '04/2025 – 09/2025',
     'projects.p1Title': 'Analyzing Routing Robustness and Load Distribution in Mixture-of-Experts Models',
     'projects.p1Bullet1': 'Studied MoE models (DeepSeekMoE 16B, Power MoE 3B) across multiple domains',
@@ -236,7 +236,7 @@ const translations = {
 
     'contact.kicker': 'Contact',
     'contact.title': 'Documents and contact',
-    'contact.copy': 'The CV and transcript can be opened directly from this portfolio.',
+    'contact.copy': 'My CV can be opened directly from this portfolio.',
     'contact.cta1': 'Open CV',
     'contact.cta2': 'Open transcript',
 
