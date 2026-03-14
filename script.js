@@ -38,7 +38,7 @@ const translations = {
     'fit.card3Body': 'Passende AI/NLP-Bausteine durch Engineering for Large Language Models, Responsible AI, Natural Language Processing with Deep Learning sowie Forschungsprojekte zu Fairness und LLMs.',
 
     'experience.kicker': 'Erfahrung',
-    'experience.title': 'Dokumentierte praktische Arbeit',
+    'experience.title': 'Praktische Arbeit',
     'experience.role1Date': '04/2024 – 07/2025',
     'experience.role1Place': 'Ruhr-Universität Bochum · Bochum',
     'experience.role1Title': 'Studentische Hilfskraft',
@@ -160,7 +160,7 @@ const translations = {
     'fit.card3Body': 'Relevant AI/NLP coursework through Engineering for Large Language Models, Responsible AI, Natural Language Processing with Deep Learning, and research projects on fairness and LLMs.',
 
     'experience.kicker': 'Experience',
-    'experience.title': 'Documented practical work',
+    'experience.title': 'Practical work',
     'experience.role1Date': '04/2024 – 07/2025',
     'experience.role1Place': 'Ruhr University Bochum · Bochum',
     'experience.role1Title': 'Student Assistant',
